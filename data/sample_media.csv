@@ -1,0 +1,4 @@
+id,type,title,year,genres,themes,tropes,core_concepts,transformative_score,cognitive_operations,difficulty_level,emotional_intensity,moral_ambiguity,accessibility,trigger_warnings,annotation_confidence
+stalker_1979,film,Stalker,1979,sci-fi;art;drama,existentialism;faith;journey,guide;forbidden_zone;wish_granter,faith;morality;hope,9,reflection;cognitive_challenge,7,6,0.7,5,slow_pacing;philosophical,8
+inception_2010,film,Inception,2010,action;sci-fi;thriller,dreams;identity;guilt,dream_within_dream;heist;redemption,perception;memory,7,cognitive_challenge;deep_complexity,6,8,0.6,7,violence;intense_scenes,9
+the_witness_game,game,The Witness,2016,puzzle;exploration,reflection;isolation;discovery,environmental_storytelling;nonverbal_teaching,learning;perception,6,reflection;cognitive_challenge,5,4,0.2,9,minimalist,10
